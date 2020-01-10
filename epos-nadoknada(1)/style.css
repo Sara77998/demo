@@ -1,0 +1,18 @@
+.body{
+    background-color: mediumorchid;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.naslov {
+    text-align: center;
+}
+.slika{
+    text-align: center;
+}
+#podnaslov {
+    text-align: center;
+}
+a:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
